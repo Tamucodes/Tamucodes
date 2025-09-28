@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudin Tamang</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
-
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamucodes" alt="tamucodes" /></a> </p>
 
 - 🔭 I’m currently working on **learning and building interactive**
